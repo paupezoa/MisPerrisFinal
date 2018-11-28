@@ -5,7 +5,7 @@ var urlsToCache = [
     '/formulario/',    
     '/agregar_mascota/',
     '/listar_mascotas/',
-    '/accounts/login/',
+    '/accounts/login/',                       // cache corregido (se debe cargar cada una de las paginas antes de dejarlas offline)
     '/static/core/css/estilos.css',
     '/static/core/Img/adoptados/Apolo.jpg',
     '/static/core/Img/adoptados/Duque.jpg',
